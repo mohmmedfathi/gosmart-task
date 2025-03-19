@@ -22,7 +22,7 @@
    
 1. Clone the repo
    ```sh
-   ggit clone https://github.com/mohmmedfathi/gosmart-task && cd gosmart-task
+   git clone https://github.com/mohmmedfathi/gosmart-task && cd gosmart-task
    ```
 
    2. Create virtual environment
