@@ -1,5 +1,6 @@
 # GoSmart Task
 
+[Postman Collection](https://github.com/mohmmedfathi/gosmart-task/blob/main/ecommerce-api.postman_collection.json)
 
 ### Built With
 
