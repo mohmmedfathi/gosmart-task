@@ -1,6 +1,12 @@
 # GoSmart Task
 
-[Postman Collection](https://github.com/mohmmedfathi/gosmart-task/blob/main/ecommerce-api.postman_collection.json)
+## Postman Collection
+[Download Postman Collection](https://raw.githubusercontent.com/mohmmedfathi/gosmart-task/main/ecommerce-api.postman_collection.json)
+
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/9f178efe-2a20-45aa-a350-bf8a2f454b6b" />
+
+## swagger
+![Image](https://github.com/user-attachments/assets/49f01ea0-ce4f-45cf-9296-ce6b75a5daad)
 
 ### Built With
 
